@@ -22,4 +22,3 @@ pip install django
 ```bash
 django-admin startproject # noor is the project name
 cd noor
-
