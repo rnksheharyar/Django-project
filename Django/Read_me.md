@@ -20,6 +20,6 @@ pip install django
 ## Create a Django project;
 
 ```bash
-django-admin startmyproject # noor is the project name
+django-admin startproject # noor is the project name
 cd noor
 
